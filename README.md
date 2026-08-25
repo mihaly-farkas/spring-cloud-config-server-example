@@ -1,4 +1,4 @@
-# [GitOps Config Server](https://github.com/mihaly-farkas/gitops-config-server?tab=readme-ov-file) » Example Config Repo
+# [Spring Cloud Config Server](https://github.com/mihaly-farkas/spring-cloud-config-server?tab=readme-ov-file) » Example Config Repo
 
 [//]: # (
 TODO: Write a proper README for the Example Config Repo
@@ -11,4 +11,4 @@ _Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris lacinia massa q
 ## ⚖️ License
 
 This project is licensed under
-the [MIT License](https://github.com/mihaly-farkas/gitops-config-server-example?tab=MIT-1-ov-file).
+the [MIT License](https://github.com/mihaly-farkas/spring-cloud-config-server-example?tab=MIT-1-ov-file).
