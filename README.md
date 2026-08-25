@@ -1,4 +1,4 @@
-# [Spring Cloud Config Server](https://github.com/mihaly-farkas/spring-cloud-config-server?tab=readme-ov-file) » Example Config Repo
+# spring-cloud-config-server-example
 
 [//]: # (
 TODO: Write a proper README for the Example Config Repo
