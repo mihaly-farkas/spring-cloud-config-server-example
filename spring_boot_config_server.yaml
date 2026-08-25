@@ -1,3 +1,3 @@
-name: GitOps Config Server Example
+name: Spring Boot Config Server Example
 description: Configuration for ${name}
 secret: "{cipher}af233f130ad751b1f39bcd4db1a37ca887ee6109d47353e7631a684ce793a3111dda06538ac9b4e15f0df0530b282d91e623de0feddbaeaf7111ff0b1f0e3cda"
